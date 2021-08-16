@@ -35,7 +35,6 @@ CELERYD_FORCE_EXECV = True
 CELERYD_TASK_SOFT_TIME_LIMIT = 60 * 5  # 300秒超时
 
 ##  下面是服务的所有配置
-# 勿修改
 anti_key = ''
 confluence_key = ''
 Tcaptcha_key = ''
